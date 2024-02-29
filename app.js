@@ -21,10 +21,37 @@ else{(percentage >= 50)
 
 
 
+// var num1 = +prompt("enter your number");
+// if(num1 % 2 === 0){
+//     console.log('Number is divisible Number');
+// }
+// else{(num1 )
+//     console.log('number is not divisible  number')
+// }
 
 
+// var bankBalance = +prompt("Enter your bankbalance")
+
+// if(bankBalance > 50000){
+//     console.log("Rishta Mubarak Ho");
+// }
+// else{(bankBalance)
+//     console.log("Ab Mujhe msg nhi karna");
+// }
 
 
+// var num1 = +prompt("Enter your number");
+
+// if(num1 >= 20){
+//     console.log("20 se bara hai");
+// } if(num1 >= 10){
+//     console.log("10 se bara ho");
+// } if(num1 >= 5){
+//     console.log("5 se bara ho");
+// }
+// else{
+//     console.log("5 se chota ho");
+// }
 
 
 
